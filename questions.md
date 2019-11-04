@@ -95,4 +95,4 @@ Given an array [1,2,3,4,5,6], write a function that prints in the console:
 Please use best React practices to refactor the code:
 [Bad React Example](https://codesandbox.io/s/charming-tharp-opobt)
 
-
+If the link to the React example doesn't work anymore, here are the original files: https://github.com/Adylic/fe-exercise/blob/master/exercise
